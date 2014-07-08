@@ -1,4 +1,4 @@
 hook-tests
 ==========
 
-Just a test! LOL
+Just a test
